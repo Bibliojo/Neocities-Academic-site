@@ -258,4 +258,82 @@ Because your site is built with standard HTML and CSS, it is not locked to any s
 ---
 
 A handmade academic website is never finished — it grows alongside your work.
+___
+
+## Optional Extension: Add a Zonelets Blog
+
+If you’d like to add a simple blog or journal to your site, you can use **Zonelets**, a lightweight blogging system designed to work especially well with Neocities.
+
+This step is optional. Your academic site works perfectly well without a blog.
+
+A Zonelets blog is useful if you want a place for:
+- short research notes
+- teaching reflections
+- project updates
+- informal writing alongside your academic profile
+
+---
+
+### How Zonelets Fits In
+
+The recommended setup is to place Zonelets in its own folder, separate from your main site pages.
+
+Your site might look like this:
+index.html
+cv.html
+publications.html
+teaching.html
+projects.html
+contact.html
+style.css
+blog/
+
+Your blog will then live at:
+
+
+https://yourusername.neocities.org/blog/
+
+2. Unzip the Zonelets files on your computer.
+
+3. In Neocities:
+- open the File Manager
+- create a new folder called:
+  ```
+  blog
+  ```
+
+4. Upload the Zonelets files into the `blog` folder.
+- Do not upload them to the root of your site.
+- If Neocities has trouble uploading many files at once, upload folders one at a time.
+
+5. Open a new browser tab and visit:
+https://yourusername.neocities.org/blog/
+
+If everything worked, you should see the Zonelets starter blog.
+
+---
+
+### Linking to Your Blog
+
+Add a link to your main site navigation:
+
+<a href="/blog/">Blog</a>
+This keeps your academic pages and your blog clearly connected.
+
+###Styling the Blog
+
+Zonelets comes with its own CSS.
+
+If you want your blog to visually match your main site, you can:
+
+edit the Zonelets CSS to use the same fonts and colours, or
+
+copy selected styles from your main style.css into the Zonelets stylesheet
+
+This is a good follow-up activity, not something you need to do right away.
+For more read the [Zonelets documentation] (https://zonelets.net/) 
+
+Zonelets.net is written by Marina Kittaka, built with Zonelets, and hosted by Neocities!
+Contact: zonelets.blogs@gmail.com 
+
 
