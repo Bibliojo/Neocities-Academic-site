@@ -2,7 +2,7 @@
 
 This tutorial walks you through creating a **small, handmade academic website** using **Neocities**, basic **HTML**, and a **single CSS stylesheet**.
 
-The goal is *not* to build a “perfect” website, nor to rely on platforms or templates that hide how the web works. Instead, this exercise focuses on **learning by doing**: writing simple code, seeing immediate results, and understanding how structure and style come together to form a site. Also this is *FUN* at least I think so :)
+The goal is *not* to build a “perfect” website, nor to rely on platforms or templates that hide how the web works. Instead, this exercise focuses on **learning by doing**: writing simple code, seeing immediate results, and understanding how structure and style come together to form a site. Also this is *FUN* !! ( at least I think so :) )
 
 ---
 
