@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Your Name — Academic Profile</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="brand">
+        <h1>Your Name</h1>
+        <p class="subtitle">Your Title · Your Institution</p>
+      </div>
+      <nav class="nav">
+        <a class="active" href="index.html">Home</a>
+        <a href="cv.html">CV</a>
+        <a href="publications.html">Publications</a>
+        <a href="projects.html">Projects</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <h2>About</h2>
+      <p>
+        Write a short bio (3–6 sentences). Mention your research areas, methods,
+        and what you’re currently working on.
+      </p>
+      <p class="links">
+        <a href="#">ORCID</a>
+        <a href="#">Google Scholar</a>
+        <a href="#">Institutional profile</a>
+        <a href="assets/YourName-CV.pdf">CV (PDF)</a>
+      </p>
+    </section>
+
+    <section class="grid">
+      <section class="card">
+        <h2>Research interests</h2>
+        <ul>
+          <li>Topic area one</li>
+          <li>Topic area two</li>
+          <li>Topic area three</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>Selected publications</h2>
+        <ol class="pubs">
+          <li><strong>Author</strong> (Year). Title. <em>Journal</em>. <a href="#">DOI</a></li>
+          <li><strong>Author</strong> (Year). Title. <em>Journal</em>. <a href="#">DOI</a></li>
+        </ol>
+        <p><a href="publications.html">Full list →</a></p>
+      </section>
+    </section>
+
+    <section class="card">
+      <h2>News / updates</h2>
+      <ul>
+        <li><strong>2026</strong> — Add a talk, award, grant, or project milestone here.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© <span id="year"></span> Your Name · Built on Neocities</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
