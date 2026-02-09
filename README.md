@@ -83,8 +83,6 @@ Before you begin, make sure you have:
 - an internet connection  
 - a free Neocities account  
 
-No software installs. No command line. No templates.
-
 ---
 
 ## Step 1: Create a Neocities Account
@@ -139,7 +137,7 @@ Spelling and capitalization matter.
 
 1. Open `index.html`
 2. Delete any existing content
-3. Paste in the starter HTML code from the tutorial
+3. Paste in the starter HTML code from the tutorial ( it's above in a file, right under the README file)
 4. Click **Save**
 
 Now open a new browser tab and visit:
