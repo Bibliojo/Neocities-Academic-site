@@ -137,7 +137,7 @@ Spelling and capitalization matter.
 
 1. Open `index.html`
 2. Delete any existing content
-3. Paste in the starter HTML code from the tutorial ( it's above in a file, right under the README file)
+3. Paste in the starter HTML code from the tutorial ( it's above in a file, right under the README file, called n"eocities-basic-indexFile")
 4. Click **Save**
 
 Now open a new browser tab and visit:
@@ -173,7 +173,7 @@ CSS controls how your site looks.
 2. Name it:
 style.css
 3. Open the file
-4. Paste in the starter CSS
+4. Paste in the starter CSS ( see above) 
 5. Click **Save**
 
 ---
